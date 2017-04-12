@@ -1,3 +1,16 @@
 body {
   background-color: powderblue;
+  margin: 0 auto;
 }
+button {
+  padding: 10px 50px;
+  background-color: transparent;
+  border: 2px solid slateblue;
+  border-radius: 5px;
+  color:slateblue;
+  margin: 50px;
+}
+  button:hover {
+    background-color: slateblue;
+    color:white;
+  }
